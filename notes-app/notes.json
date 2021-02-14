@@ -1,1 +1,4 @@
-[{"title":"Shopping list","body":"Apple, pear, juice, sweets"},{"title":"Tasks for today","body":"Homework, essay, english"},{"title":"List","body":"One produce, another product..."}]
+[
+  { "title": "Tasks for today", "body": "Homework, essay, english" },
+  { "title": "Shopping list - 12/02/2021", "body": "Apple, orange, water, chocolate" }
+]
